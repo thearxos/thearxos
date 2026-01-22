@@ -659,53 +659,53 @@ SOFTWARE.
 
 ### 🖥️ ARXOS Desktop Experience
 
-> 📁 **View all screenshots**: [Browse Screenshots Gallery](https://github.com/thearxos/thearxos/tree/main/assets/screeenshots)
+> 📁 **View all screenshots**: [Browse Screenshots Gallery](https://github.com/thearxos/thearxos/tree/main/assets/screenshots)
 
 <table>
   <tr>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/thearxos/thearxos/main/assets/screeenshots/Screenshot_20250122_114846.png" width="100%" alt="ARXOS Desktop"/>
+      <img src="https://raw.githubusercontent.com/thearxos/thearxos/main/assets/screenshots/Screenshot_20250122_114846.png" width="100%" alt="ARXOS Desktop"/>
       <br/>
       <sub><b>🖥️ KDE Plasma Desktop</b> - Custom dark theme with ARXOS branding</sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/thearxos/thearxos/main/assets/screeenshots/Screenshot_20250122_114858.png" width="100%" alt="Terminal"/>
+      <img src="https://raw.githubusercontent.com/thearxos/thearxos/main/assets/screenshots/Screenshot_20250122_114858.png" width="100%" alt="Terminal"/>
       <br/>
       <sub><b>💻 Custom Terminal</b> - Oh-My-Zsh with custom prompt</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/thearxos/thearxos/main/assets/screeenshots/Screenshot_20250122_114910.png" width="100%" alt="System Info"/>
+      <img src="https://raw.githubusercontent.com/thearxos/thearxos/main/assets/screenshots/Screenshot_20250122_114910.png" width="100%" alt="System Info"/>
       <br/>
       <sub><b>📊 System Information</b> - Fastfetch with anime logos</sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/thearxos/thearxos/main/assets/screeenshots/Screenshot_20250122_114932.png" width="100%" alt="Tools"/>
+      <img src="https://raw.githubusercontent.com/thearxos/thearxos/main/assets/screenshots/Screenshot_20250122_114932.png" width="100%" alt="Tools"/>
       <br/>
       <sub><b>🛠️ Security Tools</b> - 2800+ BlackArch tools ready</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/thearxos/thearxos/main/assets/screeenshots/Screenshot_20250122_114945.png" width="100%" alt="File Manager"/>
+      <img src="https://raw.githubusercontent.com/thearxos/thearxos/main/assets/screenshots/Screenshot_20250122_114945.png" width="100%" alt="File Manager"/>
       <br/>
       <sub><b>📁 Dolphin File Manager</b> - KDE's powerful file browser</sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/thearxos/thearxos/main/assets/screeenshots/Screenshot_20250122_115003.png" width="100%" alt="System Monitor"/>
+      <img src="https://raw.githubusercontent.com/thearxos/thearxos/main/assets/screenshots/Screenshot_20250122_115003.png" width="100%" alt="System Monitor"/>
       <br/>
       <sub><b>⚡ Performance Monitoring</b> - Real-time system stats</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/thearxos/thearxos/main/assets/screeenshots/Screenshot_20250122_115023.png" width="100%" alt="Workspace"/>
+      <img src="https://raw.githubusercontent.com/thearxos/thearxos/main/assets/screenshots/Screenshot_20250122_115023.png" width="100%" alt="Workspace"/>
       <br/>
       <sub><b>👨‍💻 Development Workspace</b> - Optimized coding environment</sub>
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/thearxos/thearxos/main/assets/screeenshots/Screenshot_20250122_115041.png" width="100%" alt="Applications"/>
+      <img src="https://raw.githubusercontent.com/thearxos/thearxos/main/assets/screenshots/Screenshot_20250122_115041.png" width="100%" alt="Applications"/>
       <br/>
       <sub><b>🎯 Application Menu</b> - Quick access to all tools</sub>
     </td>
@@ -718,12 +718,12 @@ SOFTWARE.
   <a href="https://thearxos.github.io">
     <img src="https://img.shields.io/badge/🎬_Live_Demo-Visit_Website-00D9FF?style=for-the-badge" />
   </a>
-  <a href="https://github.com/thearxos/thearxos/tree/main/assets/screeenshots">
+  <a href="https://github.com/thearxos/thearxos/tree/main/assets/screenshots">
     <img src="https://img.shields.io/badge/📸_Full_Gallery-View_All_Screenshots-FF6B00?style=for-the-badge" />
   </a>
 </p>
 
-> 💡 **Can't see the screenshots?** Make sure the repository is public or [view them directly in the repo](https://github.com/thearxos/thearxos/tree/main/assets/screeenshots)
+> 💡 **Can't see the screenshots?** Make sure the repository is public or [view them directly in the repo](https://github.com/thearxos/thearxos/tree/main/assets/screenshots)
 
 </div>
 
