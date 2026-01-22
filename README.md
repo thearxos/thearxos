@@ -669,14 +669,14 @@ SOFTWARE.
       <sub><b>🖥️ KDE Plasma Desktop</b> - Custom dark theme with ARXOS branding</sub>
     </td>
     <td align="center" width="50%">
-      <img src="https://raw.githubusercontent.com/thearxos/thearxos/main/assets/screenshots/Screenshot_20250122_114858.png" width="100%" alt="Terminal"/>
+      <img src="[https://raw.githubusercontent.com/thearxos/thearxos/main/assets/screenshots/Screenshot_20250122_114858.png](https://github.com/thearxos/thearxos/blob/main/assets/Screenshots/Screenshot_20260122_035936.png)" width="100%" alt="Terminal"/>
       <br/>
       <sub><b>💻 Custom Terminal</b> - Oh-My-Zsh with custom prompt</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/thearxos/thearxos/main/assets/screenshots/Screenshot_20250122_114910.png" width="100%" alt="System Info"/>
+      <img src="https://github.com/thearxos/thearxos/blob/main/assets/Screenshots/Screenshot_20260122_040056.png" width="100%" alt="System Info"/>
       <br/>
       <sub><b>📊 System Information</b> - Fastfetch with anime logos</sub>
     </td>
