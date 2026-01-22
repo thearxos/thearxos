@@ -653,6 +653,75 @@ SOFTWARE.
 
 ---
 
+## 📸 Screenshots
+
+<div align="center">
+
+### 🖥️ ARXOS Desktop Experience
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/thearxos/thearxos/raw/main/assets/screeenshots/Screenshot_20250122_114846.png" width="400" alt="ARXOS Desktop"/>
+      <br/>
+      <sub><b>KDE Plasma Desktop</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/thearxos/thearxos/raw/main/assets/screeenshots/Screenshot_20250122_114858.png" width="400" alt="Terminal"/>
+      <br/>
+      <sub><b>Custom Terminal Setup</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/thearxos/thearxos/raw/main/assets/screeenshots/Screenshot_20250122_114910.png" width="400" alt="System Info"/>
+      <br/>
+      <sub><b>System Information</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/thearxos/thearxos/raw/main/assets/screeenshots/Screenshot_20250122_114932.png" width="400" alt="Tools"/>
+      <br/>
+      <sub><b>Security Tools</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/thearxos/thearxos/raw/main/assets/screeenshots/Screenshot_20250122_114945.png" width="400" alt="File Manager"/>
+      <br/>
+      <sub><b>Dolphin File Manager</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/thearxos/thearxos/raw/main/assets/screeenshots/Screenshot_20250122_115003.png" width="400" alt="System Monitor"/>
+      <br/>
+      <sub><b>System Monitoring</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/thearxos/thearxos/raw/main/assets/screeenshots/Screenshot_20250122_115023.png" width="400" alt="Workspace"/>
+      <br/>
+      <sub><b>Development Workspace</b></sub>
+    </td>
+    <td align="center">
+      <img src="https://github.com/thearxos/thearxos/raw/main/assets/screeenshots/Screenshot_20250122_115041.png" width="400" alt="Applications"/>
+      <br/>
+      <sub><b>Application Menu</b></sub>
+    </td>
+  </tr>
+</table>
+
+### 🎥 See ARXOS in Action
+
+<p>
+  <a href="https://thearxos.github.io">
+    <img src="https://img.shields.io/badge/🎬_Live_Demo-Visit_Website-00D9FF?style=for-the-badge" />
+  </a>
+</p>
+
+</div>
+
+---
+
 <div align="center">
 
 ## 📊 Project Statistics
